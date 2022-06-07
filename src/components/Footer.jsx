@@ -3,25 +3,22 @@ import styled from "styled-components";
 
 const FooterContainer = styled.div`
   position: absolute;
-  width: 1750px;
-  height: 40px;
+  width: 1728px;
+  height: 28px;
   left: 0px;
   top: 1162px;
   background: #ffffff;
-  padding-top: 20px;
+  padding-top: 10px;
   border-radius: 0px, 0px, 8px, 8px;
 `;
 
 const TextContainer = styled.div`
   //styleName: 14px / Regular;
-  font-family: Rubik;
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 21px;
+
   letter-spacing: 0px;
   text-align: left;
-  height: 21px;
-  width: 303px;
+  height: 24px;
+  width: 306px;
   background: #ffffff;
   border-radius: nullpx;
   position: absolute;
@@ -30,10 +27,10 @@ const TextContainer = styled.div`
 
   /* 14px / Regular */
 
-  font-family: "Rubik";
+  font-family: Rubik;
+  font-size: 14px;
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
   line-height: 21px;
   /* identical to box height, or 150% */
 
@@ -44,7 +41,7 @@ const TextContainer = styled.div`
 
 const RightText = styled.div`
   width: 180px;
-  left: 1547px;
+  left: 1540px;
   height: 210px;
   border-radius: nullpx;
   //styleName: 14px / Regular;
@@ -56,7 +53,7 @@ const RightText = styled.div`
   font-family: "Rubik";
   font-style: normal;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 21px;
   /* identical to box height, or 150% */
   text-align: right;

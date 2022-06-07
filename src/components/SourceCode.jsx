@@ -3,7 +3,7 @@ import styled from "styled-components";
 import Divider from "@mui/material/Divider";
 import CodeIcon from "@mui/icons-material/Code";
 import Tooltip from "@mui/material/Tooltip";
-import Code from "../../assets/images/Code.png";
+import Code from "../assets/images/Code.png";
 
 const ContainerDiv = styled.div`
   height: 365px;
@@ -23,7 +23,7 @@ const TextContainer = styled.div`
   border-radius: nullpx;
   //styleName: Headers/Regular H3;
   font-family: Rubik;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 300;
   line-height: 25px;
   letter-spacing: 0px;

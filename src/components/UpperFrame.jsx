@@ -124,12 +124,12 @@ const SubtitleContainer = styled.div`
 const UpperFrame = () => {
   return (
     <ContainerDiv>
-      <OvalCopy></OvalCopy>
-      <OvalCopyBig></OvalCopyBig>
+      <OvalCopy />
+      <OvalCopyBig />
       <TitleContainer>Vividas DRM</TitleContainer>
       <SubtitleContainer>Integration with Dash Player</SubtitleContainer>
-      <OvalRight></OvalRight>
-      <OvalRight2></OvalRight2>
+      <OvalRight />
+      <OvalRight2 />
     </ContainerDiv>
   );
 };

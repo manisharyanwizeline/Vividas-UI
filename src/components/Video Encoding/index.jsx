@@ -1,8 +1,8 @@
 import React from "react";
 import styled from "styled-components";
-import LogsContainer from "../Video to Stream/LogsContainer";
+import LogsContainer from "../LogsContainer";
 import VideoEncoding from "./VideoEncoding";
-import SourceCode from "../Video to Stream/SourceCode";
+import SourceCode from "../SourceCode";
 import Wrapper from "../Container";
 import Navbar from "../Navbar";
 import UpperFrame from "../UpperFrame";

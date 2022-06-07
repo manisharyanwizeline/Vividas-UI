@@ -2,9 +2,8 @@ import React from "react";
 
 import styled from "styled-components";
 import FormatListBulletedIcon from "@mui/icons-material/FormatListBulleted";
-import Logs from "../../assets/images/Logs.png";
+import Logs from "../assets/images/Logs.png";
 import Divider from "@mui/material/Divider";
-import OndemandVideoIcon from "@mui/icons-material/OndemandVideo";
 import Tooltip from "@mui/material/Tooltip";
 
 const LogContainer = styled.div`
@@ -27,7 +26,7 @@ const TextContainer = styled.div`
   border-radius: nullpx;
   //styleName: Headers/Regular H3;
   font-family: Rubik;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 200;
   line-height: 25px;
   letter-spacing: 0px;
