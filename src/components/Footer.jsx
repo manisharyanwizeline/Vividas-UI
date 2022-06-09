@@ -4,12 +4,12 @@ import styled from "styled-components";
 const FooterContainer = styled.div`
   position: absolute;
   width: 1728px;
-  height: 28px;
-  left: 0px;
-  top: 1162px;
+  height: 30px;
+  left: 75px;
+  top: 1160px;
   background: #ffffff;
   padding-top: 10px;
-  border-radius: 0px, 0px, 8px, 8px;
+  border-radius: 0px, 0px, 10px, 10px;
 `;
 
 const TextContainer = styled.div`

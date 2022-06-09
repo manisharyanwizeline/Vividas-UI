@@ -2,11 +2,10 @@ import React, { Component } from "react";
 import VideoToStream from "./components/Video to Stream/index.jsx";
 import VideoEncoding from "./components/Video Encoding";
 import { Routes, Route } from "react-router-dom";
-
 class App extends Component {
   render() {
     return (
-      <div>
+      <div style={{ marginLeft: "75px", alignItems: "center" }}>
         <Routes>
           <Route exact path="/" element={<VideoToStream />} />
           <Route exact path="/home" element={<VideoToStream />} />

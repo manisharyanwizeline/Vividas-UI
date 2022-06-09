@@ -3,7 +3,6 @@ import { AppBar, Typography, Tooltip } from "@mui/material";
 import logo from "../assets/images/logo.png";
 import styled from "styled-components";
 import { NavLink } from "react-router-dom";
-import YouTubeIcon from "@mui/icons-material/YouTube";
 
 const pages = ["Vividas Demo", "Vividas Encoding", "Vividas Video to Stream"];
 
